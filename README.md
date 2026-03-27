@@ -21,7 +21,7 @@ An interactive data visualization dashboard built using Streamlit, Pandas, and M
 - Python
 - Streamlit
 - Pandas
-- Matplotlib
+- Plotly.Express
 
 ---
 
