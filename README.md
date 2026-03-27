@@ -27,7 +27,7 @@ An interactive data visualization dashboard built using Streamlit, Pandas, and M
 
 ## 📷 Demo
 
-*(Add screenshots here after deployment)*
+*(Adding screenshots here after deployment)*
 
 ---
 
