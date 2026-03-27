@@ -2,6 +2,8 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 
+st.write("App started successfully ✅")
+
 st.title(":chart:, Pandas Data Dashboard")
 st.write('Upload CSV file and visualize data with charts')
 
